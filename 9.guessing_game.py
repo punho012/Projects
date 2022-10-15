@@ -39,11 +39,7 @@ def main():
                 main()
             elif question == "no":
                 exit()
-            
-
-
-    
-    
+                
 
 main()
 
