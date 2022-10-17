@@ -10,7 +10,6 @@ def get_number():
 
 def main():
     random_number = get_number()
-    print(random_number)
     life = 5
     guess= 1
     while True:  
